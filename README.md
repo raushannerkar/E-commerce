@@ -1,1 +1,3 @@
-E-Commerce website built using MERN stack technology.
+# About
+
+## An E-commerce page made for shopping of clothing materials
